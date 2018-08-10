@@ -3,10 +3,10 @@
        class User {
            var $name = ""; 
             function login() {
-                echo "logged in";
+                echo "logged in now";
             }
             function logout() {
-                echo "logged out";
+                echo "logged out now";
             }
         }
         
